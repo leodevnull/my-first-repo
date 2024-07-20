@@ -1,1 +1,2 @@
 This is story file
+For feature2
